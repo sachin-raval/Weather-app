@@ -1,4 +1,3 @@
-let search = document.querySelector(".search");
 let btn = document.querySelector(".btn");
 let showWeather = document.querySelector(".show-weather")
 
